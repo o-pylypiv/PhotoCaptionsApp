@@ -28,10 +28,6 @@ class DetailViewController: UIViewController {
             let path = getDocumetsDirectory().appendingPathComponent(imageToLoad)
             detailImageView.image = UIImage(contentsOfFile: path.path)
         }
-        
-//        if let imageToLoad = selectedImage {
-//            imageView.image = UIImage(named: imageToLoad)
-//        }
     }
     
     override func viewWillDisappear(_ animated: Bool) {
