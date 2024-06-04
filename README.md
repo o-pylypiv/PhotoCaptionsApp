@@ -1,5 +1,3 @@
-Here is the rewritten README file:
-
 # Project13
 
 Project13 is an iPhone app that allows users to add and manage their own photos.
